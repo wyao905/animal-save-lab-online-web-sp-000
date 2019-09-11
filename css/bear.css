@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
+@media only screen and (max-width: 800px) {
+  img {
+    position: relative;
+    left: 800px;
+  }
+}
