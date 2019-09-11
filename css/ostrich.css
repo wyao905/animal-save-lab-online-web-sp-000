@@ -9,10 +9,9 @@ html {
 }
 
 /* Write your solution here */
-
 @media only screen and (min-width: 1196px) {
   img {
-    position: fixed;
-    left: 800px;
+    position: relative;
+    top: 100px;
   }
 }
