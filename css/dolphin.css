@@ -23,6 +23,6 @@ html {
   img {
     position: relative;
     top: -600px;
-    transform: rotate();
+    transform: rotate(0.5turn);
   }
 }
